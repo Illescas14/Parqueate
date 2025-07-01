@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Parqueate" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="materialThemeOverlay">@style/Theme.Material3.Light</item>
+    </style>
+
+
+
+    <style name="Theme.Parqueate" parent="Base.Theme.Parqueate" />
+</resources>

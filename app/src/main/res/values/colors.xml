@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_blue">#1C415C</color>
+        <color name="colorPrimary">#1976D2</color> <!-- Azul fuerte -->
+        <color name="colorPrimaryDark">#004BA0</color> <!-- Azul oscuro -->
+        <color name="colorAccent">#FFC107</color> <!-- Amarillo (para resaltar elementos) -->
+    <color name="teal_700">#018786</color>
+
+
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parqueate</string>
+    <string-array name="roles_array">
+        <item>Propietario</item>
+        <item>Conductor</item>
+    </string-array>
+
+    <string name="default_web_client_id">771164848275-ogp4l086a3m52um9eugpmm288k3qao5u.apps.googleusercontent.com</string>
+
+</resources>
