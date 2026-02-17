@@ -74,17 +74,6 @@ Integración de mapas y ubicación en tiempo real
 
 Organización de un proyecto móvil completo
 
-📷 Capturas de Pantalla
-
-(Aquí debes subir capturas de tu app funcionando)
-
-Pantalla de Login
-
-Pantalla Principal
-
-Publicación de Espacio
-
-Vista en Mapa
 
 🚀 Estado del Proyecto
 
